@@ -29,6 +29,11 @@
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Madhur-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/madhur-mohnish)
 
 <div>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXV4ZzMzcWMwdnd1YmR3Zm9zNjRpdTVpMG53ZGI3enhiOG0ycDk1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/e8VME1rHs71kM2si0U/giphy.gif" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExenF1b2ZwM3dmeTcxZXlhcDhhYWZibHdocnBrZWMzbnoyaml3empiMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a33ABpn5p6JnaWa9Bj/giphy.gif" **alt="Git" width="40" height="40"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmhyYTVoaTdxdXJ1eDdibWNoNmZuODdydjBhNjEzNnc2eWk2YXRxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GArDUI0vDY3DKrAw3n/giphy.gif" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3l3NDZ1aXM0MmttemxyM2k1aXlpd2d0ODBsMmFnbXJubmxyM2cwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W320lvAusILtFjuqrV/giphy.gif" **alt="Git" width="40" height="40"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGVvOGI5bGxrdGdsZGliZjRtazZ5anV1Zmx5ZzY2ZzM4Zmk2MTFnNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OyEZtoOqB8wotBALcO/giphy.gif" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
