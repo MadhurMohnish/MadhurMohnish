@@ -17,7 +17,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmxtZzk1MjJrZ2pzaXYxa2ptdDY2eXBjeGwzNDNsdHRqMmtrc2h2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/EubBK7RN0OFN5HbVjD/giphy.gif" width="600" height="300"/>
 </div>
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
