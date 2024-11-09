@@ -20,13 +20,13 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmxtZzk1MjJrZ2pzaXYxa2ptdDY2eXBjeGwzNDNsdHRqMmtrc2h2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/EubBK7RN0OFN5HbVjD/giphy.gif" width="600" height="300"/>
 </div>
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Data Analyst and contributing to the data-related issues that I encounter.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Currently exploring Marketing Analytics.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I do Exploratory Data Analysis from Kaggle and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Madhur-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/madhur-mohnish)
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
