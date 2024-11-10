@@ -17,7 +17,7 @@
 </div>
 
 <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmxtZzk1MjJrZ2pzaXYxa2ptdDY2eXBjeGwzNDNsdHRqMmtrc2h2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/EubBK7RN0OFN5HbVjD/giphy.gif" width="600" height="300"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3dsdzBkeXU3Ymp1NDh3cTE2NWtwOG5heHBzZ3RscDlzbzhvZ3QxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ef6T3K8lAgu3rcEOTy/giphy.gif" width="500" height="400"/>
 </div>
 
 - :telescope: I’m working as a Data Analyst and contributing to the data-related issues that I encounter.
