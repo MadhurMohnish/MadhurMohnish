@@ -22,7 +22,7 @@
 
 - :telescope: I’m working as a Data Analyst and contributing to the data-related issues that I encounter.
 
-- :seedling: Currently exploring Marketing Analytics.
+- :seedling: Currently exploring Marketing and Supply-chain Analytics!
 
 - :zap: In my free time, I do Exploratory Data Analysis from Kaggle and read tech articles.
 
